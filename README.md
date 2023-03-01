@@ -1,11 +1,11 @@
 # English Patch for Waiwai Check and Waiwai Kids
 
-Here are the English patch for 3 Satellaview games (in 2 separate roms):
+Here are the 2 English patches for 3 Satellaview games (in 2 separate roms):
 - WaiWai Check 11/15 Rerun | わいわいチェック 11/15 再放送 ([ROM Download](https://superfamicom.org/blog/2023/02/warios-first-event-and-pirates-that-beeps/))
 - Waiwai Check 3/21 | わいわいチェック 3/21
 - Yuki no Waiwai Kids 3/16 | 有紀のワイワイKIDS 3/16 ([ROM Download](https://superfamicom.org/blog/2012/11/new-rom-dump-but-i-dont-know-wai-im-releasing-these-now/))
 
-I usually don't provide links to roms, but I make an exception since the Satellaview dumps are hard to find.
+I usually don't provide links to roms, but I make an exception since the Satellaview dumps are hard to find.\
 Waiwai Check 3/21 and Waiwai Kids 3/16 are contained in the same pack.
 
 The three games are "spot the difference" games using the same engine.\
